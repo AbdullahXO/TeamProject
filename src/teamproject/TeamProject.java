@@ -31,8 +31,12 @@ public class TeamProject {
     // P3:
     public int func3(){
         
-        return 3;
-        
+        // Testing my function:
+        int x = 1 + 3;
+        if ( x > 5 )
+            return 1;
+        else
+            return 0;
     }
 
     /**
