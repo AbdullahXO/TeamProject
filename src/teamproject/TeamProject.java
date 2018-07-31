@@ -11,6 +11,8 @@ package teamproject;
  */
 public class TeamProject {
     
+    
+    // P1
     public void func1(){
         
         int x = func2();
@@ -19,11 +21,14 @@ public class TeamProject {
         
     }
     
+    // P2:
     public int func2(){
         
         return 2;
     }
     
+    
+    // P3:
     public int func3(){
         
         return 3;
